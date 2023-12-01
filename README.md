@@ -8,4 +8,7 @@ recebe por mês
 ** Salário por mês**: sálario hora * horas trabalhadas
 
 ## 🔨 Tecnologias
-HTML, CSS, Javascript 
+
+<img src="html.jpg" width="40" alt="html">
+<img src="css.jpg" width="30" alt="css">
+<img src="java.jpg" width="47" alt="java">
